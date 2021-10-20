@@ -1,0 +1,1 @@
+[{"Id":0,"Nombre":"piero","Ci":123,"usuario":"turko","Contraseña":"123","Nivel":{"Id":0,"NumeroNivel":3,"Tiempo":"0001-01-01T00:00:00"}},{"Id":0,"Nombre":"diego","Ci":112345,"usuario":"dieguito","Contraseña":"123","Nivel":{"Id":0,"NumeroNivel":3,"Tiempo":"0001-01-01T00:00:00"}}]
